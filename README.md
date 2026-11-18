@@ -1,3 +1,4 @@
+Ron Gabriel Darum BSCS 21
 # CampusConnect – Student Information Portal
 
 A responsive, frontend-only student information portal built for the CC211 Application Development and Emerging Technologies final laboratory examination.
